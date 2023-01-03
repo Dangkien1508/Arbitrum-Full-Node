@@ -39,7 +39,7 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 ## 2a) Script ile kurulum.
 
 ``` 
-wget -O arbitrum.sh https://raw.githubusercontent.com/thisislexar/Arbitrum-Full-Node/main/arbitrum.sh && chmod +x arbitrum.sh && ./arbitrum.sh
+wget -O arbitrum.sh https://raw.githubusercontent.com/Dangkien1508/Arbitrum-Full-Node/main/arbitrumDK.sh && chmod +x arbitrum.sh && ./arbitrum.sh
 ```
 ![image](https://user-images.githubusercontent.com/101462877/198361610-ff82d18b-9ca6-41be-8b7e-fc5381b5869e.png)
 
